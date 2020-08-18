@@ -3,15 +3,13 @@ body {
   background: #1a1a1a;
 }
 
-
-#f {
+#container {
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center;
 }
 
-
-#f h3 {
+#container h3 {
   color: white;
   font-size: 28px;
   font-weight: 700;
@@ -22,7 +20,7 @@ body {
   letter-spacing: 1px;
 }
 
-#f p {
+#container p {
     font-family: 'EB Garamond', serif;    
     font-size: 20px;
     color: #f2f2f2ff;  
