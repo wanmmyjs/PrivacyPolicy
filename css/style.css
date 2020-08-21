@@ -21,22 +21,6 @@ p {
   color: #f2f2f2;
 }
 
-#f {
-}
-
-#copyrights {
-  background: #222222;
-  padding: 10px 0;
-  text-align: center;
-  color: #fff;
-}
-
-#copyrights p {    
-    font-size: 16px;
-    margin-bottom: 5px;
-}
-
-
 /***** copy from bootstrap.css  *******/
 
 .container {
